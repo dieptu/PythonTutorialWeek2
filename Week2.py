@@ -116,7 +116,7 @@ print("Modulo %")
 number_7 = 9 % 6
 print("Modulo of 9 and 6 is", number_7)
 
-
+print("Modulo of 9 \r and 6 is", number_7) #\r move the cursor right after the character
 
 
 
